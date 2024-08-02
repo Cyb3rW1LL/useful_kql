@@ -1,6 +1,6 @@
 # Author: Cyb3rW1LL
 
-#### Using a data structor to hold initial query results and then parse those results with REGEX (produces two columns)
+#### Using a data structre to hold initial query results and then parse those results with REGEX (produces two columns)
 let ips = datatable(logs:string)
 [
     "cmd.exe /c C:\\ProgramData\\Heartburn\\putty.exe -ssh 7.125.34.183 -l have_ya_tried -pw turning_it_off_and_on_again",
